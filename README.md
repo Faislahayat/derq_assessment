@@ -40,7 +40,7 @@ git clone <repository-url>
 cd derq_assessment
 ```
 
-2. Set up environment variables:
+2. Set up environment variables: (optional step)
    - Copy `.env.example` to `.env` in the backend directory
    - Update the environment variables as needed
 
